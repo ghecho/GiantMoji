@@ -12,7 +12,7 @@ It takes any text (ideally a single emoji) and show it enlarged on the next scre
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) 2017 Diego Márquez Arzate
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
